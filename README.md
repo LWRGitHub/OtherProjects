@@ -1,1 +1,2 @@
-This is a litle javascript animation I made
+# Quick javascript animation Web app
+
