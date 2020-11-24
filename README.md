@@ -1,2 +1,2 @@
-# Quick javascript animation Web app
+# Quick JS Animation Web App
 
