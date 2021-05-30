@@ -6,6 +6,7 @@ This project is an example of interactive animation with Javascript. This projec
 - JS
 - HTMl/CSS
 - DOM
+- [GitHub Pages](https://lwrgithub.github.io/js-animation/)
 
 
 ## Intall/Setup
@@ -17,13 +18,13 @@ This project is an example of interactive animation with Javascript. This projec
 
 ***Starts on Click***
 
-<img src="https://raw.githubusercontent.com/LWRGitHub/js-animation/main/images/readme/start.png" alt="this is a screen shot of the start of the animation.">
+<img src="https://raw.githubusercontent.com/LWRGitHub/js-animation/master/images/readme/start.png" alt="this is a screen shot of the start of the animation.">
 
 
 ***YES/NO Animation***
 
-<img src="https://raw.githubusercontent.com/LWRGitHub/js-animation/main/images/readme/yes-no.png" alt="this is a screen shot of the yes no part of the animation.">
+<img src="https://raw.githubusercontent.com/LWRGitHub/js-animation/master/images/readme/yes-no.png" alt="this is a screen shot of the yes no part of the animation.">
 
 ***The End Animation***
 
-<img src="https://raw.githubusercontent.com/LWRGitHub/js-animation/main/images/readme/the-end.png" alt="this is a screen shot of the end of the animation.">
+<img src="https://raw.githubusercontent.com/LWRGitHub/js-animation/master/images/readme/the-end.png" alt="this is a screen shot of the end of the animation.">
